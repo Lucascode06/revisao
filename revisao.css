@@ -22,3 +22,12 @@ code {
     padding: 2px 4px;
     border-radius: 3px;
 }
+
+#inter{
+   display: flex;
+   align-items: center;
+   padding-right: 50%;
+    
+    
+
+}
