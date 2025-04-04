@@ -1,6 +1,5 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
     margin: 20px;
     background-color: #9e0000;
 }
@@ -15,25 +14,27 @@ section {
     padding: 15px;
     margin: 10px 0;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
 }
-code {
+#code {
     background: #eee;
     padding: 2px 4px;
     border-radius: 3px;
 }
 
-#inter{
-   display: flex;
-   align-items: center;
-   padding-right: 50%;
-    
-    
 
-}
-img {
+#img {
     right:100px;
-    float: right; 
-    margin: 10px; 
-    width: 100px; 
+    float: right;
+    border-radius: 20px; 
+  
+}
+
+#image{
+float: right;
+right: 100px;
+width: 400px;
+border-radius: 20px; 
+
+
 }
