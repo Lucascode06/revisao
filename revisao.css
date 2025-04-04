@@ -31,3 +31,9 @@ code {
     
 
 }
+img {
+    right:100px;
+    float: right; 
+    margin: 10px; 
+    width: 100px; 
+}
